@@ -96,7 +96,7 @@ A API de Gerenciamento de Produtos é uma solução desenvolvida para facilitar 
 1. Certifique-se de ter o **Node.js** e o **MongoDB** instalados em sua máquina.
 2. Clone este repositório:
      ```bash
-     git clone https://github.com/seu-usuario/seu-repositorio.git
+     git clone https://github.com/fernando-gianini/create-gitcopilot-api-product
      ```
 3. Navegue até o diretório do projeto:
      ```bash
@@ -123,3 +123,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 ## Licença
 Este projeto está licenciado sob a [MIT License](LICENSE).
+
+## Desenvolvido por 
+Fernando Gianini
